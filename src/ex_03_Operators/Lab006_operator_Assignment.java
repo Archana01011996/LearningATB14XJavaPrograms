@@ -9,7 +9,7 @@ public class Lab006_operator_Assignment {
          *Addition *subtraction  *multiplcation *division *modulus(%)
        3.Relational operator
          *Less than(<) ,*greater than (>) ,*Less than or equal to(<=) , * greater than or equal to(>=)
-         *equal to (=) ,* Not equal to (!=)
+         *equal to (= =) ,* Not equal to (!=)
        4.Logical operator
          *And operator (&&)  *Or opertaor (||)   *Not operator(!)
        5.Compound operator
@@ -17,6 +17,7 @@ public class Lab006_operator_Assignment {
        6.New opertaor
        String s1=new String("Pramod")
        7.Instance of operator
+       8.Increment or decrement operator --?++  --
        */
        //Assignement operator
        int age=90;
