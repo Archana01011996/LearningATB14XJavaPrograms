@@ -5,7 +5,7 @@ public class Task001 {
         int num=9;
         //9*1=9
        //%d for integer ,string =%s  ,character =%c ,float =%f
-        System.out.printf("%d x 1= %d",num,num*1).println();
+        System.out.printf("%d x 1= %d",num*1,num).println();
         System.out.printf("%d x 2= %d",num,num*2).println();
         System.out.printf("%d x 3= %d",num,num*3).println();
         System.out.printf("%d x 4=%d",num,num*4).println();

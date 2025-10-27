@@ -10,4 +10,7 @@ public class Lab022_Interview_char_question {
         short s=10;
         char c='A';  //65
         System.out.println(s+c); //75
+
+        char d='a';
+        System.out.println(d);
 }}
